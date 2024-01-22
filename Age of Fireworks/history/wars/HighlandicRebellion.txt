@@ -1,0 +1,10 @@
+name = "Highlandic Rebellion"
+1835.10.2  = {
+  add_attacker = ENG
+  add_defender = SCO
+  war_goal = { 
+    casus_belli = conquest
+    actor = ENG
+    receiver = SCO
+  }
+}

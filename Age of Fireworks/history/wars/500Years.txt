@@ -1,0 +1,16 @@
+name = "Five Hundred Years' War"
+1835.10.2  = {
+  add_attacker = FRA
+  add_defender = ENG
+  war_goal = { 
+    casus_belli = acquire_core_state
+    state_province_id = 399
+    actor = FRA
+    receiver = ENG
+  }
+}
+
+1836.6.6 = {
+	rem_attacker = FRA
+	rem_defender = ENG  
+}
