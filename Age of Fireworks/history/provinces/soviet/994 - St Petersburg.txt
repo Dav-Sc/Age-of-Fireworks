@@ -1,11 +1,12 @@
-owner = RUS
-controller = RUS
+owner = NOV
+controller = NOV
+add_core = NOV
 add_core = RUS
 trade_goods = grain
 life_rating = 35
 naval_base = 2
-fort = 1
-railroad = 1
+fort = 2
+railroad = 2
 #state_building = {
 #	level = 1
 #	building = lumber_mill
