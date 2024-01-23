@@ -23,3 +23,17 @@ Contributors: Jukebox, David-Sc (Oreo)
 - The Bohemians united the West Slavic tribes into the West Slavic Confederation.
 - Ostmark became Independent from Middle Frankia in the 11th Century. It has been a close ally to
   the Bohemian Crown since.
+
+### Nation Tags
+
+#### Europe
+
+#### North America
+- NSC - Nord Amerika Sveka Corp 
+- UMB - Umbria 
+- ODG - Odenega Federation
+- DAK - Dakotan Tribes
+- CLM - English Columbia
+- CIB - Ciboney
+- NPC - Novus Porto Cale
+- APA - Apache-Pueblo Alliance
