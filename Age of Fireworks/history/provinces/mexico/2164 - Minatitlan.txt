@@ -1,5 +1,5 @@
-owner = TEX
-controller = TEX
-add_core = TEX
+owner = PNM
+controller = PNM
+add_core = PNM
 trade_goods = iron
 life_rating = 35

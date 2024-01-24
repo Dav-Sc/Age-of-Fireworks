@@ -221,7 +221,7 @@ COL		="countries/Columbia.txt"
 CUB		="countries/Cuba.txt"
 
 #TEX - Novus Porto Cale
-TEX		="countries/Texas.txt"
+PNM		="countries/Panama.txt"
 
 #CAL - Apache-Pueblo Alliance
 CAL		="countries/Californian Republic.txt"

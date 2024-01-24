@@ -1,6 +1,5 @@
 capital = 232
-primary_culture = yankee
-culture = dixie
+primary_culture = anglo_canadian
 religion = protestant
 government = democracy
 plurality = 0.5

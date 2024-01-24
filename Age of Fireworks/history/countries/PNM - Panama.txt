@@ -1,5 +1,5 @@
 capital = 2204
-primary_culture = central_american
+primary_culture = texan
 culture = north_andean
 religion = catholic
 government = presidential_dictatorship

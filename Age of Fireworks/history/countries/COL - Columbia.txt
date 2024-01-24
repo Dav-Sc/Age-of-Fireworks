@@ -1,7 +1,5 @@
 capital = 14
-primary_culture = anglo_canadian
-culture = british
-culture = french_canadian
+primary_culture = dixie
 religion = protestant
 government = democracy
 plurality = 0.5
