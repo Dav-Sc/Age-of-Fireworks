@@ -201,6 +201,7 @@ XBI		="countries/Xibei San Ma.txt"
 XIN		="countries/Xinjiang.txt"
 
 # North America
+#USA = "countries/USA.txt"
 #QUE - Nord Amerika Sveka Corp
 QUE		="countries/Quebec.txt"
 
