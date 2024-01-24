@@ -13,6 +13,15 @@ proletarian_dictatorship =
 	flagType = communist
 }
 
+corporatocracy =
+{
+	#which ideology of parties.
+	reactionary = yes
+	
+	election = no
+	appoint_ruling_party = yes
+	flagType = republic
+}
 
 
 presidential_dictatorship =
