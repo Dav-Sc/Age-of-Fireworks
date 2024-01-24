@@ -29,11 +29,11 @@ Contributors: Jukebox, David-Sc (Oreo)
 #### Europe
 
 #### North America
-- NSC - Nord Amerika Sveka Corp 
-- UMB - Umbria 
-- ODG - Odenega Federation
-- DAK - Dakotan Tribes
-- CLM - English Columbia
-- CIB - Ciboney
-- NPC - Novus Porto Cale
-- APA - Apache-Pueblo Alliance
+- QUE - Nord Amerika Sveka Corp 
+- MAN - Umbria 
+- MTC - Odenega Federation
+- DES - Dakotan Tribes
+- COL - English Columbia
+- CUB - Ciboney
+- TEX - Novus Porto Cale
+- CAL - Apache-Pueblo Alliance
