@@ -196,7 +196,7 @@ PHI		="countries/Philippines.txt"
 MCK		="countries/Manchukuo.txt"
 GXI		="countries/Guangxi Clique.txt"
 SXI		="countries/Shanxi.txt"
-YNN		="countries/Yunnan.txt"a
+YNN		="countries/Yunnan.txt"
 XBI		="countries/Xibei San Ma.txt"
 XIN		="countries/Xinjiang.txt"
 
