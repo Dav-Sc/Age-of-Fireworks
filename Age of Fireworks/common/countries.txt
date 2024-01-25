@@ -226,8 +226,6 @@ PNM		="countries/Panama.txt"
 #CAL - Apache-Pueblo Alliance
 CAL		="countries/Californian Republic.txt"
 
-
-
 #CHE		="countries/Cherokee.txt"
 #CAL		="countries/Californian Republic.txt"
 #CAN		="countries/Canada.txt"
