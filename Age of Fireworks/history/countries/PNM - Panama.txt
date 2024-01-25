@@ -1,6 +1,5 @@
-capital = 2204
+capital = 2163
 primary_culture = texan
-culture = north_andean
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.1
@@ -10,7 +9,7 @@ civilized = yes
 
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting

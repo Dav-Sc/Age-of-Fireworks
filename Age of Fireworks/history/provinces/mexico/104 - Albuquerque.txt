@@ -1,13 +1,6 @@
 owner  = CAL
-
-controller = MEX
-
+controller = CAL
 add_core = CAL
 
 trade_goods = cattle
 l = 35
-1861.1.1 = {
-	 
-	 
-	add_core = USA
-}

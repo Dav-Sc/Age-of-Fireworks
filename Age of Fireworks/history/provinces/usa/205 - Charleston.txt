@@ -1,5 +1,6 @@
 owner = CUB
 controller = CUB
 add_core = CUB
+add_core = COL
 trade_goods = coal
 life_rating = 35

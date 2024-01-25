@@ -1,5 +1,5 @@
-owner  = CAL
-controller = MEX
+owner = SPA
+controller = SPA
 add_core = CAL
 trade_goods = fish
 life_rating = 35

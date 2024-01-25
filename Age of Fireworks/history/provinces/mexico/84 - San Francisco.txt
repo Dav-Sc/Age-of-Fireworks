@@ -1,6 +1,6 @@
 owner  = CAL
 
-controller = MEX
+
 
 add_core = CAL
  

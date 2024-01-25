@@ -1,7 +1,6 @@
-capital = 97
-primary_culture = yankee
-culture = dixie
-religion = protestant
+capital = 117
+primary_culture = dakota
+religion = animist
 government = presidential_dictatorship
 plurality = 0.2
 nationalvalue = nv_order

@@ -1,10 +1,10 @@
 owner  = CAL
 
-controller = MEX
+
 
 add_core = CAL
 
-add_core = DES 
+ 
 
 add_core = CAL
 trade_goods = grain

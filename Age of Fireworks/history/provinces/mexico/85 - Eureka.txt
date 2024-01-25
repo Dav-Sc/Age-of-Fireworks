@@ -1,13 +1,6 @@
 owner  = CAL
-
-controller = MEX
-
 add_core = CAL
 
 add_core = CAL
-  = fish
+trade_goods = = fish
 life_rating = 40
-1861.1.1 = {
- 
-  
-}
