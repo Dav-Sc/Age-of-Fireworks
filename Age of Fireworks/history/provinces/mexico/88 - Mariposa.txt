@@ -6,7 +6,7 @@ add_core = CAL
 
 
 add_core = CAL
-trade_goods =  = fruit
+trade_goods = fruit
 life_rating = 35
 1861.1.1 = {
  
