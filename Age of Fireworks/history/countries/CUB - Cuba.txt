@@ -1,6 +1,6 @@
 capital = 200
 primary_culture = caribeno
-religion = catholic
+religion = animist
 government = presidential_dictatorship
 plurality = 0.5
 nationalvalue = nv_order

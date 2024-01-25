@@ -1,8 +1,8 @@
 capital = 105 # Sonoma
-primary_culture = mexican
+primary_culture = zapotec
 culture = pueblo
 religion = animist
-government = democracy
+government = tribal_federation
 plurality = 0.5
 nationalvalue = nv_liberty
 literacy = 0.50
@@ -38,11 +38,11 @@ upper_house = {
 	communist = 0
 }
 
-1861.1.1 = {
-	oob = "/1861/CAL_oob.txt"
-}
-1861.1.1 = {
+
 # Technologies
 
+	flintlock_rifles = 1
+	military_staff_system = 1
+	army_command_principle = 1
 #Inventions
-}
+

@@ -1,7 +1,7 @@
 capital = 117
 primary_culture = dakota
 religion = animist
-government = presidential_dictatorship
+government = tribal_federation
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.50

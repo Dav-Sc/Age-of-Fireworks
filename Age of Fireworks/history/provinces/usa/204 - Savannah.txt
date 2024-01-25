@@ -1,5 +1,5 @@
 owner = CUB
 controller = CUB
 add_core = CUB
-trade_goods = cotton
+trade_goods = grain
 life_rating = 35

@@ -1,14 +1,5 @@
 owner  = CAL
-
-
-
+controller = CAL
 add_core = CAL
-
-
 trade_goods = iron
-l = 35
-1861.1.1 = {
-	 
-	 
-	add_core = USA
-}
+life_rating  = 35
