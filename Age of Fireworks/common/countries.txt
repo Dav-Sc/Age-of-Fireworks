@@ -1,7 +1,7 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 
 # Russian Minors
-FSC     =   "countries/Future State of Colombia"
+FSC     =   "countries/Future State of Colombia.txt"
 
 # Special countries...
 REB 	= 	"countries/rebels.txt"
