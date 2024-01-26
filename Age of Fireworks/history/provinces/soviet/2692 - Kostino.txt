@@ -1,3 +1,5 @@
-
+owner = FSC
+controller = FSC
+add_core = FSC
 trade_goods = timber
 life_rating = 15

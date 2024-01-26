@@ -1,3 +1,5 @@
-
+owner = FSC
+controller = FSC
+add_core = FSC
 trade_goods = grain
 life_rating = 30

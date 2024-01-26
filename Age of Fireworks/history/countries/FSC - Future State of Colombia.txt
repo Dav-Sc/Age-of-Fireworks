@@ -1,0 +1,43 @@
+capital = 1070
+primary_culture = colombian
+culture = russian
+religion = catholic
+government = democracy
+plurality = 50
+nationalvalue = nv_liberty
+literacy = 1.0
+civilized = no
+prestige = 10
+
+#Reforms
+education_reform = yes_education_reform
+transport_improv = yes_transport_improv
+military_reforms = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
+
+
+#Technologies
+army_command_principle = 1
+basic_chemistry = 1
+malthusian_thought = 1
+positivism = 1
+functionalism = 1
+biologism = 1
+social_science = 1
+medicine = 1
+inorganic_chemistry = 1
+
+
+oob = "FSC_oob.txt"
+ruling_party = COL_conservative
+upper_house = {
+	fascist = 0
+	liberal = 37
+	conservative = 53
+	reactionary = 10
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+

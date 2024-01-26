@@ -1,2 +1,5 @@
+owner = FSC
+controller = FSC
+add_core = FSC
 trade_goods = coal
 life_rating = 15
