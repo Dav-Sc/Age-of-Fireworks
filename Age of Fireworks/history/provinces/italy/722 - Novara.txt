@@ -1,7 +1,6 @@
-owner = SAR
-controller = SAR
-add_core = SAR
-add_core = ITA
+owner = GER
+controller = GER
+add_core = GER
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = {
