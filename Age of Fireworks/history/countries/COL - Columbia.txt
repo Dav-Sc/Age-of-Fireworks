@@ -1,7 +1,5 @@
-capital = 14
-primary_culture = anglo_canadian
-culture = british
-culture = french_canadian
+capital = 214
+primary_culture = dixie
 religion = protestant
 government = democracy
 plurality = 0.5
@@ -12,7 +10,7 @@ prestige = 1
 
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = landed_voting
 public_meetings = yes_meeting

@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = NEW
-add_core = CAN
-trade_goods = fish
+owner = QUE
+controller = QUE
+add_core = QUE
+trade_goods = precious_metal
 life_rating = 35
 colonial = 2

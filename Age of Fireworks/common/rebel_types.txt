@@ -428,6 +428,7 @@ communist_rebels = {
 		prussian_constitutionalism = proletarian_dictatorship
 		hms_government = proletarian_dictatorship
 		democracy = proletarian_dictatorship
+		corporatocracy = proletarian_dictatorship
 	}
 	
 	
