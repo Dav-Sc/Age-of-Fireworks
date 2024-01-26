@@ -1,2 +1,5 @@
+owner = NME
+controller = NME
+add_core = NME
 trade_goods = timber
 life_rating = 15

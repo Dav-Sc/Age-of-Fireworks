@@ -1,3 +1,6 @@
+owner = MAO
+controller = MAO
+add_core = MAO
 trade_goods = fish
 life_rating = 20
 

@@ -1,0 +1,31 @@
+capital = 1102
+primary_culture = russian
+religion = orthodox
+government = absolute_monarchy
+plurality = 20
+nationalvalue = nv_order
+literacy = .15
+civilized = no
+prestige = 5
+
+ruling_party = RUS_conservative
+upper_house = {
+	fascist = 0
+	liberal = 19
+	conservative = 60
+	reactionary = 21
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+#Reforms
+education_reform = yes_education_reform
+
+
+#Technologies
+basic_chemistry = 1
+
+AZE = "AZE_oob.txt"
+
+

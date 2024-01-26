@@ -1,3 +1,5 @@
-
+owner = NME
+controller = NME
+add_core = NME
 trade_goods = grain
 life_rating = 15
