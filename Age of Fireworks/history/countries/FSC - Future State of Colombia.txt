@@ -9,6 +9,17 @@ literacy = 1.0
 civilized = no
 prestige = 10
 
+ruling_party = RUS_conservative
+upper_house = {
+	fascist = 0
+	liberal = 35
+	conservative = 55
+	reactionary = 10
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
 #Reforms
 education_reform = yes_education_reform
 transport_improv = yes_transport_improv
