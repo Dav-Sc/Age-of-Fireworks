@@ -2,6 +2,7 @@
 
 # Russian Minors
 FSC     =   "countries/Future State of Colombia.txt"
+PBC     =   "countries/Paramita Buddhist Collective.txt"
 
 # Special countries...
 REB 	= 	"countries/rebels.txt"

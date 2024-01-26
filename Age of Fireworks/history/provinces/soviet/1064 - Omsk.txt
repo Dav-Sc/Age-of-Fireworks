@@ -1,2 +1,5 @@
+owner = PBC
+controller = PBC
+add_core = PBC
 trade_goods = sulphur
 life_rating = 20
