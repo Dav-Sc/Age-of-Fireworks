@@ -4,7 +4,9 @@
 FSC     =   "countries/Future State of Colombia.txt"
 PBC     =   "countries/Paramitan Buddhist Collective.txt"
 BSH     =   "countries/Bashkirs.txt"
-
+PRM     =   "countries/Perm.txt"
+CHU     =   "countries/Chud.txt"
+MAR     =   "countries/Mari.txt"
 
 # Special countries...
 REB 	= 	"countries/rebels.txt"
