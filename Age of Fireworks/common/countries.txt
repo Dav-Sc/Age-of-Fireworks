@@ -3,6 +3,14 @@
 # Russian Minors
 FSC     =   "countries/Future State of Colombia.txt"
 PBC     =   "countries/Paramitan Buddhist Collective.txt"
+BSH     =   "countries/Bashkirs.txt"
+PRM     =   "countries/Perm.txt"
+CHU     =   "countries/Chud.txt"
+MAR     =   "countries/Mari.txt"
+NME     =   "countries/Northern Mongol Enclave.txt"
+TRS     =   "countries/Transgeorgia.txt"
+AZE     =   "countries/United Settlements of Azerbijan.txt"
+MAO     =   "countries/Maori Kingdom.txt"
 
 # Special countries...
 REB 	= 	"countries/rebels.txt"

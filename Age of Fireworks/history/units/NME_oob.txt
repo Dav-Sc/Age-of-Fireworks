@@ -1,0 +1,28 @@
+army = {
+	name = "Ej�rcito de Colombia"
+	location = 2655
+	regiment = {
+		name= "1. Brigada de Infanter�a"
+		type = infantry
+		home = 2655
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanter�a"
+		type = infantry
+		home = 2658
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanter�a"
+		type = infantry
+		home = 2674
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballer�a"
+		type = cuirassier
+		home = 2653
+	}
+
+}
