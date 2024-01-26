@@ -1,4 +1,5 @@
 ADL;Andalusia;x;;;
+ADL_ADJ;Andalusian;x;;;
 NOV;Novgorod;x;;;
 FSC;Future State of Colombia;x;;;
 BSH;Bashkirs;x;;;
@@ -40,3 +41,7 @@ NME_ADJ;Mongol;Mongol;Mongol;;Mongol;;;;;;;;;x;;;;
 TRS_ADJ;Georgian;Georgian;Georgian;;Georgian;;;;;;;;;x;;;;
 AZE_ADJ;Azerbijani;Azerbijani;Azerbijani;;Azerbijani;;;;;;;;;x;;;;
 MAO_ADJ;Maori;Maori;Maori;;Maori;;;;;;;;;x;;;;
+GER;Middle Frankia;x;;;
+CZH;West Slavic Confederacy;x;;;
+CRO;Illyricum;x;;;
+SAR:Genova;x;;;
