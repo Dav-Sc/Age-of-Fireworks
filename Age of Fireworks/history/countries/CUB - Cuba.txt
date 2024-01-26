@@ -1,6 +1,6 @@
-capital = 2209
+capital = 200
 primary_culture = caribeno
-religion = catholic
+religion = animist
 government = presidential_dictatorship
 plurality = 0.5
 nationalvalue = nv_order
@@ -38,11 +38,8 @@ upper_house = {
 	communist = 0
 }
 
-1861.1.1 = {
-	oob = "/1861/CUB_oob.txt"
-}
-1861.1.1 = {
+
 # Technologies
 
 #Inventions
-}
+
