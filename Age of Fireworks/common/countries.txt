@@ -201,14 +201,7 @@ XBI		="countries/Xibei San Ma.txt"
 XIN		="countries/Xinjiang.txt"
 
 # North America
-#NSC ="countries/Nord Amerika Sveka Corp.txt"
-#UMB ="countries/Umbria.txt"
-#ODG ="countries/Odenega.txt"
-#DAK ="countries/Dakotan.txt"
-#CLM ="countries/English Columbia.txt"
-#CIB ="countries/Ciboney.txt"
-#NPC ="countries/Novus Porto Cale.txt"
-#APA ="countries/Apache Pueblo Alliance.txt"
+
 
 # South America
 ARG		="countries/Argentina.txt"
