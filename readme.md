@@ -6,6 +6,7 @@ Author: Kontigenz/Karl
 
 Contributors: Jukebox, David-Sc (Oreo)
 
+PERKMAN IS BANNED FROM PLAYING THIS MOD
 
 ### Lore Points
 
