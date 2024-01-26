@@ -1,5 +1,17 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 
+# Russian Minors
+FSC     =   "countries/Future State of Colombia.txt"
+PBC     =   "countries/Paramitan Buddhist Collective.txt"
+BSH     =   "countries/Bashkirs.txt"
+PRM     =   "countries/Perm.txt"
+CHU     =   "countries/Chud.txt"
+MAR     =   "countries/Mari.txt"
+NME     =   "countries/Northern Mongol Enclave.txt"
+TRS     =   "countries/Transgeorgia.txt"
+AZE     =   "countries/United Settlements of Azerbijan.txt"
+MAO     =   "countries/Maori Kingdom.txt"
+
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
@@ -201,7 +213,49 @@ XBI		="countries/Xibei San Ma.txt"
 XIN		="countries/Xinjiang.txt"
 
 # North America
+#USA = "countries/USA.txt"
+#QUE - Nord Amerika Sveka Corp
+QUE		="countries/Quebec.txt"
 
+#MAN - Umbria
+MAN		="countries/Manhattan Commune.txt"
+
+#MTC - Odenega Federation
+MTC		="countries/Metis Confederacy.txt"
+
+#DES - Dakotan Tribes
+DES		="countries/Deseret.txt"
+
+#COL - English Columbia
+COL		="countries/Columbia.txt"
+
+#CUB - Ciboney
+CUB		="countries/Cuba.txt"
+
+#TEX - Novus Porto Cale
+PNM		="countries/Panama.txt"
+
+#CAL - Apache-Pueblo Alliance
+CAL		="countries/Californian Republic.txt"
+
+#CHE		="countries/Cherokee.txt"
+#CAL		="countries/Californian Republic.txt"
+#CAN		="countries/Canada.txt"
+#COS		="countries/Costa Rica.txt"
+#CSA		="countries/CSA.txt"
+#DOM		="countries/Dominican Republic.txt"
+#ELS		="countries/El Salvador.txt"
+#GUA		="countries/Guatemala.txt"
+#HAI		="countries/Haiti.txt"
+#HAW		="countries/Hawaii.txt"
+MEX		="countries/Mexico.txt"
+#MTC		="countries/Metis Confederacy.txt"
+#HON		="countries/Honduras.txt"
+#NEN		="countries/New England.txt"
+#NEW		="countries/Newfoundland.txt"
+#NIC		="countries/Nicaragua.txt"
+#PNM		="countries/Panama.txt"
+#UCA		="countries/United States of Central America.txt"
 
 # South America
 ARG		="countries/Argentina.txt"

@@ -9,11 +9,13 @@ germanic = {
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
 		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
 		Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
+
 		Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
 		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
 		
 		last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
 		"Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bülow" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" 
+
 		"von Boyen" "von Braunschweig" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover" 
 		"von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld"
 		"von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg" 
@@ -26,6 +28,7 @@ germanic = {
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
 		Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
 		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
+
 		Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
 		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
 		
@@ -34,6 +37,7 @@ germanic = {
 		Stolzer Trunk "von Baden" "von Benedek" "von Böhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
 		"von Grünne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von Kirbach"
 		"von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
+
 	}
 	ashkenazi = { 
 		color = { 130 100 100}
@@ -41,6 +45,7 @@ germanic = {
 		Sigmund Simon Theodor }
 
 		last_names = { Abramovitch Ashkenazi Bernstein Birnbaum Bloch Cantor Cohen Frank Friedländer Ginsberg Goldstein Horowitz Israel Jacobsohn Kagan Kaplan Klein
+
 		Levin Luria Morgenstern Nathan Oren Rosenthal Sachs Schapiro Schwartz Weinstein Weiss }
 	}
 	
@@ -57,6 +62,7 @@ beneluxian = {
 			Barthout
 			Casimir Constantijn Cornelis Christiaan Christoffel 
 			Daniël David Dominicus Daniel Dirk
+
 			Elias Ernst Erwin Eise
 			Frans Frederik
 			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
@@ -70,6 +76,7 @@ beneluxian = {
 			Pauwel Paul Pieter
 			Quinten
 			Rafaël Ruben Rudolf Roeland Rogier Rutger
+
 			Stefan Simon
 			Thomas
 			Victor Willem Vincent
@@ -81,6 +88,7 @@ beneluxian = {
 			Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode" Brouwer Buyskes "van Braam Houckgeest"
 			"van der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
 
+
 			"van Culemborg"
 			Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "van Diemen" "van der Does" "van Duivenvoorde"
 			Ellis Engels Engelvaart "van Egmont" Evertzen
@@ -90,12 +98,14 @@ beneluxian = {
 			"van Ilpendam"
 			Janssens
 			Köhler Kool Kruys Kater "van Keppel" Kortenaer
+
 			List Lucas
 			Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
 			Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
 			Ongerboer 
 			"van Pallandt"
 			Rijk Röell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
+
 			Sabron "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel 	
 
 			Steltman Stuyvesant
@@ -119,6 +129,7 @@ beneluxian = {
 		d'Ansembourg d'Hanens "de Brouckère" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez" 
 		"de Haerne" "de Jonghe" "de Jonghe d'Ardoye" "de Langhe" "de Leeuw" "de Leuze" "de Man" "de Meer de Moorsel" 
 		"de Meester" "de Mérode" "de Muelenaere" "de Pelichy" "de Renesse" "de Robiano" "de Rodes" "de Roo" "de Ryckere" 
+
 		"de Smet" "de Theux de Meylandt" "de Tiecken" "de Viron" "de Woelmont" Dayeneux Delberke Delehaye Delwarde "Desmanet de Biesme" 
 		Destouvelles Deswert Devaux Dhanis Domis "du Bois" Fransman Gelders Geudens Goethals Hennequin "Huysman d'Annecroix" 
 		Jacobs Janssens Joos Jottrand Kockaert Ledeganck Lefebvre Liedts Marcq Meeus Morel Moyersoen Mulle Nypels 
@@ -142,11 +153,13 @@ beneluxian = {
 		"de Behr" "de Bocarmé" "de Bousies" "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen"
 		"de Croÿ" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" 
 		"de Mérode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" 
+
 		"de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix 
 		"Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
 		Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand 
 		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
 		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
+
 	}
 }
 
@@ -160,6 +173,7 @@ pan_swiss = {
 		Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
 		
 		last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
+
 		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Wille Celio Cotti Fogliardi Motta Zeni
 		Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
 	}
@@ -179,6 +193,7 @@ scandinavian = {
 		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mörner Nordenskiöld "Palanger af Vega"
 		Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström Taube Tawast
 		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
+
 	}
 	danish = { 
 		color = { 220 40 40}
@@ -189,6 +204,7 @@ scandinavian = {
 		
 		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso "de Meza" Eberlin Falsen
 		Folsach Güntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe
+
 		Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg
 		Stemman Suenson Thygeson Trampe Urne "von Holstein" "von Oldenburg" Wadenstierna Wedel-Heinen Zytphen-Adeler }
 	}
@@ -209,6 +225,7 @@ scandinavian = {
 		
 		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
 		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
+
 	}
 	finnish = { 
 		color = { 220 220 220}
@@ -218,6 +235,7 @@ scandinavian = {
 		
 		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
 		Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
+
 		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
 		
 		radicalism = 5
@@ -229,6 +247,7 @@ scandinavian = {
 		}
 		last_names = {
 			Hætta Somby Turi Magga Dunfjeld Kvitfjell Kappfjell
+
 		}
 	}
 	union = SCA
@@ -258,6 +277,7 @@ british = {
 		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond Éamon
 		Edward Ernes Fionán Frank George Harry Jack James John Joseph
 		Kevin Liam Michael Patrick Peter Richard Robert Séan Thomas William }
+
 		
 		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
 		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
@@ -280,6 +300,7 @@ italian = {
 		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
 		Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
 		"di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti 
+
 		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
 	}
@@ -320,6 +341,7 @@ iberian = {
 		Bilbao Campión Churruca "de Amésquita" "de Azpilicueta" "de Erauso" "de Rentería" "de Ubisztongo" Echagüe Echave
 	 	Echegaray Echevarría Elorza Gaztañeta Ibarrola Ibárruri Irujo Lazcano Mendizabal Moneo 
 		Nárdiz Olano Olave Oyarzábal Rotaeche Uzcudun Zamárraga Zárate Zavala Zumalacárregui }
+
 		radicalism = 15
 	}
 	spanish = {
@@ -351,6 +373,7 @@ iberian = {
 		last_names = { Albéniz Almirall Bacardí Batet Berenguer Borrás Borrell Cadafall Carner Casals
 		Casanova Castelló Claramunt Cucala Cugat Despujol Domènech Escotet Fabra Fages 
 		"Folc de Cardona" Gumerà Irla Llauder Macià Maragall Margall "Milans del Bosch" Miró Mompou
+
 		Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba 
 		Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
 	}
@@ -371,6 +394,7 @@ iberian = {
 		Herculano Ivens Keil Lopes Machado Magalhães Mendes Moniz Mouzinho Nogueira 
 		Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
 		Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
+
 	}
 }
 
@@ -390,6 +414,7 @@ french = {
 		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+
 	}
 	
 }
@@ -408,6 +433,7 @@ south_slavic = {
 
 		last_names = { Alapic Bakaric Bettera Bilic Blazevic Bondic Boroevic Bosnajk Bunic Crnkovic
 		Cuvaj Draskovic Dzamanjic Eltz Erdödy Frankopan Gaj Getaldic Gradic Gregoric
+
 		Gucetic Gundulic Haulik Jelacic Kabuzic Keglevic Kostrencic Krstulovic Lagimja Mazuranic
 		Mihailovic Mohorovicic Mrazovic Natali Nazor Njegovan Palecek Pejacevic Philippovic Preradovic
 		Pucic Ranjina Sarkotic Sokcevic Sorkocevic Stankovaci Tomasic Tomlejnovic Vakanovic Vlasic
@@ -460,6 +486,7 @@ south_slavic = {
 		Çeku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
 		Koculi Konica Konushevci Kosturi Kota Logoreci Merlika-Kruja Mitrovica Mula Noli
 		"Pashë Përmeti" "Pashë Tepelena" "Pashë Toptani" Poga "Qemal Bej" Shahini Skiroi Thaçi Troja Xoxe
+
 		}
 		radicalism = 15
 	}
@@ -477,6 +504,7 @@ south_slavic = {
 		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
 		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
 		Tomazic Tomsic Urbancic Vega "Von Windisch-Grätz" Zagar Zerjal Zizke Zornada Zupancic
+
 		}
 	}
 	bosniak = {
@@ -493,6 +521,7 @@ south_slavic = {
 		Isakovic Izetbegovic Kodro Konjic Kulenovic Lagumdzija Ljajic Ljubicic Ljubijankic Mehmedinovic
 		Muradbegovic Muzurovic Osmanagic Peco Plakalo Pozderac Prazina Rizvanbegovic Sabanadzovic Salihovic
 		Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic Tükcan Ugljanin 
+
 		}
 	}
 	union = YUG
@@ -536,6 +565,7 @@ hungarian_culture_group = {
 		Joseffy Katona Kaufman Kéler Kiss Knezich Kogutowicz Lahner Lázár Leiningen-Westerburg
 		Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
 		Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
+
 	}
 }
 
@@ -547,6 +577,7 @@ polish_culture_group = {
 		color = {255 120 120}
 		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
 		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
+
 		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
 		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
 		Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
@@ -555,6 +586,7 @@ polish_culture_group = {
 		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
 		Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
 		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+
 		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
 		radicalism = 10
 	}
@@ -595,6 +627,7 @@ czecho_slovak_culture_group = {
 		Mik Morávec Nemecek Neruda Novácek Novotný Popper Radecký Rokytanský Safárik
 		Safránek Schack Schubert Skoda Skuherský Smetana Snejdárek Suk Svoboda Syrový
 		Tomásek Tyl Vitásek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Zíbrt Zívr Zoubek }
+
 	}
 	
 	slovak = {
@@ -610,6 +643,7 @@ czecho_slovak_culture_group = {
 		Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malár Malovec Markovic
 		Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
 		Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
+
 	}
 	union = CZH
 }
@@ -692,6 +726,7 @@ baltic = {
 		Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
 		Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
 		Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
+
 		}
 	}
 	
@@ -1080,6 +1115,7 @@ central_asian = {
 		
 		last_names = { 
                Dzasa Wangyal Shatra Lungshar Rinpoche Chöphel Shakabpa Tashi 
+
 		}
 		radicalism = 10
 	}
@@ -1322,6 +1358,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano
+
                
 		}
 	}
@@ -1362,6 +1399,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Vong Kuman Söm Bun Supho Long Intharavong Anuvong
+
                
 		}
 	}
@@ -1372,6 +1410,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min
+
                
 		}
 	}
@@ -1464,6 +1503,7 @@ east_asian = {
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
 		}
 		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
+
 		}
 	}
 	nanfaren = {
@@ -1471,6 +1511,7 @@ east_asian = {
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
 		}
 		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
+
 		}
 	}
 	korean = {
@@ -1520,6 +1561,7 @@ east_asian = {
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
 		}
 		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
+
 		}
 	}
 	yue = {
@@ -1527,6 +1569,7 @@ east_asian = {
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
 		}
 		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
+
 		}
 	}
 }
@@ -1600,6 +1643,7 @@ native_american = {
 		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
 		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
 		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+
 	}
 	nahua = {
 		color = {88 175 160}
@@ -1649,6 +1693,7 @@ native_american = {
 
 		last_names = { Apaza Ayme Calisaya Cardenas Castilla Chino Choquehuanca Condori Corahua Cusicanqui
 		Hoffmann Huachua Huallpa Katari Larico Machaca Mamani Morales Paredes Peñaranda
+
 		Puma Quilca Quispe Rivera Sisa Tamayo Taquiri Torres Yllanes Yucra }
 	}
 	amazonian = {
@@ -1669,12 +1714,14 @@ native_american = {
 		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
 		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
 		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+
 	}
 	guajiro = {
 		color = {221 248 75}
 		first_names = { Baltasar Bernardo Carlos Celestino Diego Emilio Felipe Fernando Fidel Francisco
 		Gaspar Gregorio Hugo Ignacio José Juan Manuel Marcos Mario Mateo
 		Melchor Narciso Pablo Pedro Ramón Roberto Santiago Sebastián Simón Tomás }
+
 
 		last_names = { Atapashuna Epieyu Iguana Jayaliyuu Jusayuu Pausayuu Sapuana Tijuana Uliana Uliyuu
 		Uraliyyu Ulewana Walapuana Walepushana }
@@ -1686,12 +1733,14 @@ native_american = {
 		Jordão Lúcio Mateus Nicolau Paulo Pedro Roque Sergio Tomás Vítor }
 
 		last_names = { Caetés Potiguara Tabajara Tamoios Temiminó Tupinambá Tupiniquim 	}
+
 	}
 	metis = {
 		color = {15 68 192}
 		first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
 		}
 		last_names = { Riel Bruce Lépine Dumont Clarence Martin
+
 		}
 	}
 	dakota = {
@@ -1699,6 +1748,7 @@ native_american = {
 		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
 		}
 		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
+
 		}
 	}
 	cherokee = {
@@ -1739,6 +1789,7 @@ native_american = {
 	native_american_minor = {
 		color = {68 55 88}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+
 		}
 		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
 		}
@@ -1790,7 +1841,7 @@ american_cultures = {
 		}
 		radicalism = 10
 	}
-	union = USA
+	#union = USA
 }
 
 neo_european_cultures = {
@@ -1823,6 +1874,7 @@ neo_european_cultures = {
 		first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
 		}
 		last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
+
 		}
 		radicalism = 10
 	}
@@ -1845,6 +1897,7 @@ latin_american_cultures = {
 		Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky "López de Santa Ana" Lozada
 		"Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles
 		Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
+
 		}
 	}
 	central_american = {
@@ -1861,6 +1914,7 @@ latin_american_cultures = {
 		Figueroa Garrigó Guzmán Hernández Jerez Jiménez Leiva López Machado Martínez
 		Medina Mejía Menéndez Montes Montiel Morazán Palacios Peralta Quiros Regalado
 		Rosales Sevilla Sinibaldi Soto Terán Ubico Vasconcelos Vigil Zelaya Zeledón
+
 		}
 		radicalism = 15
 	}
@@ -1878,6 +1932,7 @@ latin_american_cultures = {
 		Gil Gómez Gonzáles González Grau Guillermo Henríquez Herrera Hevia Laredo
 		Luperón Maceo Machado Márquez Mella Méndez Mendieta Moncada Morales Mota
 		Pelletier Pimentel Puello Santana Sosa Trujillo Valverde Vásquez Vázquez Zayas
+
 		}
 	}
 	north_andean = {
@@ -1894,6 +1949,7 @@ latin_american_cultures = {
 		Falcón Flores García Gómez González Gual Gutiérrez Herrán Hurtado López
 		Mallarino Manjarrés Mariño Melo Monagas Moreno Núñez Obando Páez Porras
 		Reyes Robles Rocafuerte Rojas Salgar Santander Soublette Urbina Villegas Zaldúa
+
 		}
 	}
 	south_andean = {
@@ -1910,6 +1966,7 @@ latin_american_cultures = {
 		Echenique Errázuriz Fernández Figueroa Franco Freire Gamarra Gorostiaga Grau
 		Guilarte "La Mar" Latorre Lynch Melgarejo Monje Montero Montes Montt Orbegoso
 		Pezet Rebolledo Ruíz-Tagle Salaverry "Santa María" Siles Sotomayor Toro Valencia Zañartu Zapata
+
 		}
 	}
 	platinean = {
@@ -1925,6 +1982,7 @@ latin_american_cultures = {
 		"de la Plaza" "de Rosas" "de Urquiza" Derqui Díaz Ellauri Escobar Flores González Jovellanos
 		Juárez Justo Latorre López Machaín Maza Meza Mitre Paz Pedernera
 		Pellegrini Pereira Quintana Rivarola Rivera Roca "Rodríguez de Francia" Rojas Rondeau Sáenz
+
 		Santos Sarmineto Solano Tajes Uriburu Viamonte Vidal Williman Wisner Yrigoyen
 		}
 	}
@@ -1941,6 +1999,7 @@ latin_american_cultures = {
 		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
 		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
 		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
 		}
 	}
@@ -2003,6 +2062,7 @@ african_diaspora_cultures = {
 		Iginac Janvier Jeune Lafontant Laleau Leconte Légitime Legouaze Léon Lhérisson
 		Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
 		Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor }
+
 	}
 
 	
@@ -2302,6 +2362,7 @@ east_african = {
 		}
 
 		last_names = { "ibn Nul" Likaylik "Ibn Badi" "Ibn Isma´il" Muhammad "Ibn Tabl" Rabihi "wad Rajab"
+
 		}
 	}
 	dinka = {
@@ -2585,5 +2646,5 @@ bears = {
 		
 		last_names = { Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet }
 	}
-	union = SCA
+	#union = SCA
 }
