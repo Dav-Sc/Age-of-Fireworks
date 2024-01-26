@@ -1608,103 +1608,103 @@
 #Naples (1304000/326000 POPS)
 754 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 8250
 	}
 
 	bureaucrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 825
 	}
 
 	officers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 625
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 3375
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 5000
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 202925
 	}
@@ -1712,31 +1712,31 @@
 #Salerno (572000/143000 POPS)
 755 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 3600
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1475
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 136175
 	}
@@ -1744,31 +1744,31 @@
 #Gaeta (436000/109000 POPS)
 2567 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 2750
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 5250
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 98350
 	}
@@ -1778,43 +1778,43 @@
 #Bari (572000/143000 POPS)
 756 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 3500
 	}
 
 	bureaucrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 475
 	}
 
 	officers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1350
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 7500
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 127800
 	}
@@ -1822,31 +1822,31 @@
 #Foggia (572000/143000 POPS)
 757 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 3750
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1450
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 128800
 	}
@@ -1854,31 +1854,31 @@
 #Brindisi (280000/70000 POPS)
 758 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1800
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 63000
 	}
@@ -1888,43 +1888,43 @@
 #Reggio (572000/143000 POPS)
 759 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 3500
 	}
 
 	bureaucrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 475
 	}
 
 	officers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1450
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 7500
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 127700
 	}
@@ -1932,31 +1932,31 @@
 #Catanzaro (344000/86000 POPS)
 760 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 2200
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 875
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 4250
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 79675
 	}
@@ -1964,31 +1964,31 @@
 #Potenza (572000/143000 POPS)
 761 = {
 	aristocrats = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 3750
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 1475
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = hungarian
 		religion = catholic
 		size = 129325
 	}
