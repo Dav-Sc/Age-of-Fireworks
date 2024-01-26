@@ -1,7 +1,6 @@
 owner  = CAL
 
-add_core = CALEX
-
+add_core = MEX
 
 trade_goods = fish
 

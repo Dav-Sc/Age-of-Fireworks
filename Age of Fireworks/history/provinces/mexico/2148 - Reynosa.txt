@@ -1,5 +1,6 @@
 owner = PNM
 controller = PNM
 add_core = PNM
+add_core = MEX
 trade_goods = coal
 life_rating = 35

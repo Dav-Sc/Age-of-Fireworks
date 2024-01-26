@@ -1,6 +1,6 @@
 owner  = CAL
 
-cadd_core = CALX
+add_core = MEX
 
 
 

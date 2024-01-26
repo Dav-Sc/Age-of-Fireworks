@@ -1,4 +1,5 @@
-
+owner  = MEX
+add_core = MEX
 
 trade_goods = fruit
 life_rating = 30
