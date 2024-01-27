@@ -211,6 +211,7 @@ SXI		="countries/Shanxi.txt"
 YNN		="countries/Yunnan.txt"
 XBI		="countries/Xibei San Ma.txt"
 XIN		="countries/Xinjiang.txt"
+GPC   ="countries/Gunpowder Cult.txt"
 
 # North America
 #USA = "countries/USA.txt"
