@@ -1,4 +1,4 @@
-color = { 43 89 202}
+color = { 153 217 234}
 graphical_culture = Generic
 
 party = {
@@ -101,22 +101,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Jan Hus" "Karel IV" "Prokop Velik˝" "Anton Bernol·k" "LudovÌt ät˙r" 
+		"Jan Hus" "Karel IV" "Prokop Velik√Ω" "Anton Bernol√°k" "Ludov√≠t ≈†t√∫r" 
 	}
 	ironclad = {
-		Praha Brno Ostrava Bratislava Koöice 
+		Praha Brno Ostrava Bratislava Ko≈°ice 
 	}
 	manowar = {
-		Mileöovka Lovos Hazmburk Beskydok "Gerlachovsk˝ ötÌt" 
+		Mile≈°ovka Lovos Hazmburk Beskydok "Gerlachovsk√Ω ≈°t√≠t" 
 	}
 	cruiser = {
 		Jizera Metuje Morava Hron Bodrog   
 	}
 	frigate = {
-		"Jan Dismas Zelenka" "äimon Brixi" "Frantiöek Tuma" "J·n äimbrack˝" "Zachari·ö Zarewutius" 
+		"Jan Dismas Zelenka" "≈†imon Brixi" "Franti≈°ek Tuma" "J√°n ≈†imbrack√Ω" "Zachari√°≈° Zarewutius" 
 	}
 	monitor = {
-		"Petr Brandl" "V·clav Hollar" "Jan Jahn" "Majster koöickÈho olt·ra" "Josef Czauczik" 
+		"Petr Brandl" "V√°clav Hollar" "Jan Jahn" "Majster ko≈°ick√©ho olt√°ra" "Josef Czauczik" 
 	}
 	clipper_transport = {
 		
@@ -125,6 +125,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Praûsk˝ hrad" Vyöehrad Zbraslav "Bojnick˝ z·mok" "Bratislavsky hrad" 
+		"Pra≈æsk√Ω hrad" Vy≈°ehrad Zbraslav "Bojnick√Ω z√°mok" "Bratislavsky hrad" 
 	}
 }
