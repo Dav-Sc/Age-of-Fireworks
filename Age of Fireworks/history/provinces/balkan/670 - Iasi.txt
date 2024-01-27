@@ -1,5 +1,5 @@
-owner = MOL
-controller = MOL
+owner = POL
+controller = POL
 add_core = MOL
 add_core = ROM
 trade_goods = fruit

@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = ADL
+controller = ADL
+add_core = ADL
 trade_goods = fish
 life_rating = 35
 colonial = 2

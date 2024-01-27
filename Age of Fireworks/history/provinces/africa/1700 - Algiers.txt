@@ -1,7 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = ALD
+owner = ADL
+controller = ADL
+add_core = ADL
 trade_goods = grain
 life_rating = 35
-colonial = 2
-1861.1.1 = { railroad = 2 }
