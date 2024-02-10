@@ -5,4 +5,5 @@ army = {
 		name= "Black powder bandits"
 		type = infantry
 		home = 155
+                  }
 	}
