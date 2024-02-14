@@ -1,0 +1,9 @@
+army = {
+	name = "Black powder bandits"
+	location = 1555
+	regiment = {
+		name= "Black powder bandits"
+		type = infantry
+		home = 155
+                  }
+	}
