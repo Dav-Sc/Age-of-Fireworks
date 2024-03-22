@@ -1,0 +1,113 @@
+political_decisions = {
+    the_future_of_CUB = {
+        potential = {
+            tag = CUB
+            government = tribal_federation
+            NOT = {
+                has_country_flag = to_our_past
+            }
+        }
+
+        allow = {
+            war = no
+        }
+
+        effect = {
+            set_country_flag = to_our_future
+            any_pop = {
+                militancy = 2
+            }
+            #remove Cuba
+            2209 = { remove_core = CUB }
+            2210 = { remove_core = CUB }
+            2211 = { remove_core = CUB }
+            2212 = { remove_core = CUB }
+
+        }
+    }
+
+
+
+    the_past_of_CUB = {
+        potential = {
+            tag = CUB
+            government = tribal_federation
+            NOT = {
+                has_country_flag = to_our_future
+            }
+        }
+
+        allow = {
+            plurality = 3
+            prestige = 1
+        }
+
+        effect = {
+            set_country_flag = to_our_past
+            any_pop = {
+                militancy = -2
+            }
+            #add Haiti Cuba
+            2215 = { add_core = CUB }
+            2213 = { add_core = CUB }
+            2216 = { add_core = CUB }
+            2214 = { add_core = CUB }
+            #add PR
+            2222 = { add_core = CUB }
+
+            205 = { remove_core = CUB }
+
+
+        }
+    }
+
+
+    the_past_of_CUB_expanded = {
+        potential = {
+            tag = CUB
+            government = tribal_federation
+            has_country_flag = to_our_past
+            NOT = {
+                has_country_flag = to_our_future
+            }
+        }
+
+        allow = {
+            plurality = 3
+            prestige = 1
+        }
+
+        effect = {
+            set_country_flag = to_our_past
+            any_pop = {
+                militancy = -2
+            }
+            #add Haiti Cuba
+            203 = { add_core = CUB }
+            2217 = { add_core = CUB }
+            2218 = { add_core = CUB }
+            2219 = { add_core = CUB }
+            2220 = { add_core = CUB }
+            2223 = { add_core = CUB }
+            2224 = { add_core = CUB }
+            2225 = { add_core = CUB }
+            2226 = { add_core = CUB }
+            2227 = { add_core = CUB }
+            2228 = { add_core = CUB }
+            2229 = { add_core = CUB }
+            2230 = { add_core = CUB }
+            2231 = { add_core = CUB }
+            2232 = { add_core = CUB }
+            2233 = { add_core = CUB }
+            2234 = { add_core = CUB }
+            2235 = { add_core = CUB }
+            2236 = { add_core = CUB }
+            2237 = { add_core = CUB }
+            2238 = { add_core = CUB }
+            2409 = { add_core = CUB }
+
+
+        }
+    }
+
+}
